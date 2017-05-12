@@ -1,0 +1,17 @@
+{
+  "name": "backgroundjob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.2.1",
+    "email": "^0.2.6",
+    "kue": "^0.11.5",
+    "sendmail": "^1.1.1"
+  }
+}
